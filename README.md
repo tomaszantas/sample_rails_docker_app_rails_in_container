@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Source code for article on http://codepany.com/blog : "RAILS 5 AND DOCKER (PUMA, NGINX)".
 
-Things you may want to cover:
+This source code contains Docker files for configuration where Rails and Nginx are ran in separate and linked containers.
+ 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
